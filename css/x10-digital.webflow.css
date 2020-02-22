@@ -1636,6 +1636,10 @@ body {
   background-color: #001632;
 }
 
+.section-cta.different {
+  background-color: transparent;
+}
+
 .feature {
   display: -webkit-box;
   display: -webkit-flex;
@@ -2751,6 +2755,10 @@ body {
     padding-top: 10px;
     padding-right: 10px;
     padding-left: 10px;
+  }
+  .section-cta.different {
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   .flowbase-card-delete {
     padding-right: 10px;
