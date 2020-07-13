@@ -21,7 +21,7 @@ body {
   -ms-flex-align: center;
   align-items: center;
   background-color: rgba(86, 52, 138, 0.84);
-  background-image: url('../images/freshh-connection-WRWCMtV8Cow-unsplash.jpg');
+  background-image: url('../images/nesa-by-makers-IgUR1iX0mqM-unsplash.jpg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -68,7 +68,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  margin-top: 0px;
+  margin-top: 50px;
   margin-bottom: 15px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
@@ -88,7 +88,7 @@ body {
   flex: 0 auto;
   font-family: 'Gt america trial expanded', sans-serif;
   color: #fff;
-  font-size: 90px;
+  font-size: 80px;
   line-height: 1;
   font-weight: 700;
   text-align: center;
@@ -196,6 +196,7 @@ body {
 
 .footer-text-02 {
   margin-bottom: 0px;
+  color: #484dff;
   font-size: 16px;
   font-weight: 400;
   text-align: left;
@@ -1117,7 +1118,7 @@ body {
 }
 
 .button-default:hover {
-  background-color: #343af0;
+  background-color: #2e3642;
 }
 
 .new-tag {
@@ -1738,7 +1739,7 @@ body {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-color: #001632;
+  background-color: #484dff;
 }
 
 .section-cta.different {
@@ -2486,6 +2487,7 @@ body {
     align-items: flex-start;
   }
   .heading {
+    font-size: 50px;
     text-align: center;
   }
   .footer-column {
@@ -2811,7 +2813,7 @@ body {
     width: 100%;
   }
   .heading {
-    font-size: 30px;
+    font-size: 23px;
   }
   .button {
     margin-right: 0px;
