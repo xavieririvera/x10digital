@@ -1200,6 +1200,7 @@ figure {
   margin-bottom: 5px;
   font-family: 'DM Sans', sans-serif;
   font-size: 18px;
+  text-decoration: line-through;
 }
 
 .sub-paragraph {
@@ -4220,6 +4221,17 @@ figure {
 #w-node-3cae00d251b6-2ed5ebe2 {
   -ms-grid-column-align: start;
   justify-self: start;
+  -ms-grid-row: span 1;
+  grid-row-start: span 1;
+  -ms-grid-row-span: 1;
+  grid-row-end: span 1;
+  -ms-grid-column: span 1;
+  grid-column-start: span 1;
+  -ms-grid-column-span: 1;
+  grid-column-end: span 1;
+}
+
+#w-node-867d59804464-b7d5ebe4 {
   -ms-grid-row: span 1;
   grid-row-start: span 1;
   -ms-grid-row-span: 1;
